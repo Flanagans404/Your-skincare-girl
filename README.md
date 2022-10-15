@@ -20,3 +20,7 @@ nxt action:
 recenter my text vertically and horizontally
 recover my underlined title some way
 get this index.html the way i had it before trying to put a button in the middle of the banner
+
+rev0.2
+added image file in repository of the main to work on the background with it 
+and center my text and buttons over it vertically... 
