@@ -1,0 +1,12 @@
+*{margin: 0; padding: 0;
+font-family: 'Merriweather', serif;}
+
+
+
+
+banner-text{
+  text-align: center; color: #fff; padding-top: 180px;}
+banner-text h1{
+  font-size: 130px;}
+banner-text p{
+  font-size: 20px; font-style: italic;}
